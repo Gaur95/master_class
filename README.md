@@ -26,5 +26,6 @@ https://github.com/Gaur95/test12.git
 ### jenkins exe. shell
 ```
 docker build -t mypro .
-docker run --name mycon -p 80:80 mypro
+docker rm -f mycon
+docker run -itd --name mycon -p 80:80 mypro
 ```

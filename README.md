@@ -20,3 +20,6 @@ http://your_public_IP:8080
 ```
 docker logs jenkins
 ```
+```
+https://github.com/Gaur95/test12.git
+```

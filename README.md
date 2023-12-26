@@ -1,12 +1,12 @@
 # master_class
 ## topics - Linux ,Github , jenkins , AWS
 ### docker installation
-'''
+```
 sudo apt update ; sudo apt install docker.io -y
-'''
-'''
+```
+```
 sudo chmod 777 /var/run/docker.sock
-'''
+```
 
 ### jenkins
 ### install jenkins in docker 

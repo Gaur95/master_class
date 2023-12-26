@@ -17,3 +17,6 @@ docker run -itd --name jenkins -v v1:/var/jenkins_home -v /run/docker.sock:/run/
 ```
 http://your_public_IP:8080
 ```
+```
+docker logs jenkins
+```
